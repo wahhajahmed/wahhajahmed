@@ -3,10 +3,6 @@
 ### 🚀 Data Analyst | Web Developer | AI-Assisted Developer
 
 <p align="center">
-  <img src="./profile.png" width="160" height="160" alt="Wahaj Ahmed" />
-</p>
-
-<p align="center">
   <a href="https://github.com/wahhajahmed">
     <img src="https://img.shields.io/badge/GitHub-wahhajahmed-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -20,6 +16,12 @@
 </p>
 
 <p align="center">
+  <img src="https://github.com/wahhajahmed.png?size=160" width="160" height="160" alt="Wahaj Ahmed" style="border-radius: 50%; object-fit: cover; border: 4px solid #00D9FF;" />
+</p>
+
+
+<p align="center">
+ 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Wahaj%20Ahmed&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
@@ -59,6 +61,7 @@ I enjoy transforming raw data into meaningful insights, building interactive das
 * Business Insights
 
 </td>
+
 <td width="50%">
 
 ### 💻 Web Development
@@ -242,8 +245,6 @@ Here are some of my current projects. This section will continue to grow as I bu
 | 📊 **Sales Analytics Dashboard** | Data Analytics        | Python • Pandas • Power BI                                 |
 | 👥 **HR Analytics Dashboard**    | Data Analytics        | Python • SQL • Power BI • DAX                              |
 
-### 🔗 Explore My Repositories
-
 <p align="center">
   <a href="https://github.com/wahhajahmed?tab=repositories">
     <img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-00D9FF?style=for-the-badge&logo=github&logoColor=black" />
@@ -369,8 +370,8 @@ Happy Palace Grammar School
 
 📧 **[wahajahmed1707@gmail.com](mailto:wahajahmed1707@gmail.com)**
 📱 **+92-333-3673541**
-💼 **LinkedIn:** [Wahaj Ahmed](https://linkedin.com/in/wahajahmed)
-💻 **GitHub:** [wahhajahmed](https://github.com/wahhajahmed)
+💼 **[LinkedIn — Wahaj Ahmed](https://linkedin.com/in/wahajahmed)**
+💻 **[GitHub — wahhajahmed](https://github.com/wahhajahmed)**
 
 </p>
 
